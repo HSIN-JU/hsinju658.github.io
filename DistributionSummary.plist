@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acelink.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C0819F9F04800D0FAEBD219E6DEB62AD22F7CDD5</string>
+				<key>dateExpires</key>
+				<string>2022/10/23</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>BRXG54S6MP.tw.com.humax.quantume</string>
+				<key>com.apple.developer.networking.wifi-info</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>BRXG54S6MP</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>EasyMesh.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4e50ae02-5145-45ba-83b7-ed1dbea3b50d</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: tw.com.humax.quantume</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>BRXG54S6MP</string>
+				<key>name</key>
+				<string>Edimax Technology Co., LTD.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
